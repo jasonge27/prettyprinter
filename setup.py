@@ -16,10 +16,10 @@ requirements = [
     'Pygments>=2.2.0',
 ]
 
-setup_requirements = [
-    'pytest-runner>=3.0',
+#setup_requirements = [
+#    'pytest-runner>=3.0',
     # TODO(tommikaikkonen): put setup requirements (distutils extensions, etc.) here
-]
+#]
 
 test_requirements = [
     'pytest>=4.3.0',
